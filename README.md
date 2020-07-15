@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
+### “ Life is growth. If we stop growing, technically and spiritually, we are as good as dead. ” - Morihei Ueshiba
 
 My life gist :
 
