@@ -9,7 +9,7 @@ My life gist :
 - 🌱 I’m currently learning to manage my time, and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
 - 💬 Ask me about Mobile Development(Android, React Native, Flutter), Web Development, Design, Marketing, Sales.
-- 📫 How to reach me: [aditya.designer](https://www.instagram.com/aditya.designer/)
+- 📫 How to reach me: [aditya.developer](https://www.instagram.com/aditya.developer/)
 - ⚡ Fun fact: I am in love with tea. ☕
 
 I strongly believe that constant learning is a part of our journey,
