@@ -20,5 +20,8 @@ of, in the last few years. Coming from a strong tech background,
 spending most of my time learning and teaching code, I found another
 vertical of mine which was to do marketing and become an influencer.
 
-Being a influencer I think social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of
-digital identity and strongly believe in creating an online presence aka personal brand.
+I started my career in Jamnagar. Where I studied: Bachelor of Computer Applications at the University of Saurashtra and currently pursuing my Masters in Computer Applications at the Marwadi University.
+
+### Creating is my passion
+I always loved creating things and turning my ideas into reality and later I found out that to be my passion, so I started studying about computer applications and programming languages by which I can digitalize my ideas. And within few years I got a good grip in IT world and therefor I decided to share my knowledge via social media platforms like YouTube, Instagram, Facebook, etc.
+
