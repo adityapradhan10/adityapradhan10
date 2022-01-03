@@ -10,7 +10,7 @@
 - ☕ Fun fact: I am in love with tea.
 
 ### Creating is my passion
-I started my career in Jamnagar, Gujarat where I studied Bachelor of Computer Applications at the University of Saurashtra and currently pursuing my Masters in Computer Applications at The Maharaja Sayajirao University of Baroda.
+I started my career in Jamnagar, Gujarat where I studied Bachelor of Computer Applications and then completed my Masters in Computer Applications at The Maharaja Sayajirao University of Baroda.
 
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game. My constant learning in both horizontal and vertical dimensions has landed me some of the best opportunities I could have ever dreamt of, in the last few years. Coming from a strong tech background, spending most of my time learning and teaching code, I found another vertical of mine which is to teach people how to code.
 
