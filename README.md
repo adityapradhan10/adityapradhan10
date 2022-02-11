@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Personal Brand Development, and trying to provide valuable content on social platforms.
 - 📚 What do I beleive? Jack of all, Master of a one.
 - 🌱 I’m currently learning to manage my time, and be productive + bunch of tech.
-- 💬 Ask me about JavaScript, Python, Design, etc.
+- 💬 Ask me about Java, JavaScript, TypeScript.
 - 📫 Reach me out [on instagram](https://www.instagram.com/aditya.developer/)
 - ☕ Fun fact: I am in love with tea.
 
