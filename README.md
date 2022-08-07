@@ -6,7 +6,7 @@
 - 📚 What do I beleive? Jack of all, Master of a one.
 - 🌱 I’m currently learning to manage my time, and be productive + bunch of tech.
 - 💬 Ask me about JavaScript, TypeScript.
-- 📫 Reach me out [on LinkedIn](https://www.linkedin.com/in/aditya-developer/)
+- 📫 Reach me out [on LinkedIn](https://www.linkedin.com/in/adityapradhan10/)
 - ☕ Fun fact: I am in love with tea.
 
 ### Creating is my passion
